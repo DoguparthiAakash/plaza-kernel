@@ -1,3 +1,4 @@
-# plaza-kernel - CHANGELOG.md
+# Changelog
 
-Placeholder for CHANGELOG.md.
+## [Unreleased]
+- Initial scaffold
