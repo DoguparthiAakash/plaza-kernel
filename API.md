@@ -1,3 +1,6 @@
-# plaza-kernel - API.md
+# API Reference
 
-Placeholder for API.md.
+Detailed API definitions.
+
+## REST API
+- `GET /health`
